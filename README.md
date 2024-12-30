@@ -4,3 +4,5 @@
 byte rowPins[ROWS] = { D1, D2, D3, D4 };
 byte colPins[COLS] = { 14, 12, 13 };
 ```
+
+![plot](Scheme.png)
